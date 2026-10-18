@@ -1,6 +1,6 @@
 # edotime-legal
 
-iOS アプリ「江戸時計」のサポートページとプライバシーポリシー（GitHub Pages）。
+iOS アプリ「江戸のとき」のサポートページとプライバシーポリシー（GitHub Pages）。
 
 - サポート：https://3tuptup3.github.io/edotime-legal/
 - プライバシーポリシー：https://3tuptup3.github.io/edotime-legal/privacy/
